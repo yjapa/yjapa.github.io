@@ -43,11 +43,11 @@ ul.indice {
 }
 
 .texto-direita {
-  position: absolute;
   width: 780px;
-  right: 170px;
-  top: 170px;
   text-align: justify;
+  margin-left: 950px;
+  position: absolute;
+  top: 180px;
 }
 
 h1.estilo-titulos {
@@ -56,7 +56,6 @@ h1.estilo-titulos {
   margin-bottom: 80px;
   text-transform: uppercase;
   letter-spacing: 4px;
-  display: block;
   }
 
 div.texto-direita {
@@ -158,3 +157,5 @@ a:active {
   background-color: #f5f5f5 ;
   padding: 1px
 }
+
+
